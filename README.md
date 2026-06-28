@@ -1,16 +1,20 @@
-## Hi there 👋
+# About Me
+I'm a Production Engineer currently working with Material Sourcing at a global aviation MRO company. My goal is to work with Decision Making Support. With that in mind, I began my journey to learn about Data Science to add this important tool to my arsenal. I have interest in:
+- Decision Making
+- MCDA
+- Engineering
+- Stochastic Modelling and Analysis
 
-<!--
-**GMCEz/GMCEz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to reach out to chat if you fell we have some things in common!
 
-Here are some ideas to get you started:
+# Academic Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Production Engineering - UFF (Coursing)
+- Data Science - EBAC (Coursing)
+
+# Skills
+
+- Stochastic Modelling
+- 3D Moddeling (Engineering Oriented)
+- MCDA (Multicriteria Decision Analysis)
+- Python
